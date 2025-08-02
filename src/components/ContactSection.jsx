@@ -97,7 +97,7 @@ export const ContactSection = () => {
                 <a href="https://www.linkedin.com/in/syed-nizamuddin-844053260/" target="_blank">
                   <Linkedin />
                 </a>
-                <a href="#" target="_blank">
+                <a href="https://x.com/Nullifyerror" target="_blank">
                   <Twitter />
                 </a>
                 <a href="https://www.instagram.com/nizam.2k4/" target="_blank">
